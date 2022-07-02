@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 
 <img align="right" width="300" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
-- 👨‍💻 All of my projects are available at [projects](projects)
+- 📝 Checkout my projects below
 
-- 📝 I regularly write articles on [blog](blog)
+- 👨‍💻 Sourcecodes of my projects showcased below are available [here](https://github.com/SaxenaPriyanka?tab=repositories)
 
-- 📫 How to reach me **reachme**
-
-- 📄 Know about my experiences [resume](resume)
+- 📄 To know about my experiences & projects visit my website [Priyanka Saxena](https://priyankasaxena.net/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +42,6 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saxenapriyanka&show_icons=true&locale=en&layout=compact" alt="saxenapriyanka" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saxenapriyanka&show_icons=true&locale=en&layout=compact" alt="saxenapriyanka" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saxenapriyanka&label=Profile%20views&color=0e75b6&style=flat" alt="saxenapriyanka" /> </p>
