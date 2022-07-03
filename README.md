@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 - 📝 Checkout my pinned projects below 👇
 
-- 👨‍💻 Sourcecodes of my projects are available [here](https://github.com/SaxenaPriyanka?tab=repositories)
+- 👨‍💻 Sourcecodes of my projects are available [**here**](https://github.com/SaxenaPriyanka?tab=repositories)
 
-- 📄 To know more about my experiences & projects visit my [website](https://priyankasaxena.net/)
+- 📄 To know more about my experiences & projects visit my [**website**](https://priyankasaxena.net/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/priyanka-saxena-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanka-saxena-" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanka-saxena-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanka-saxena-" height="30" width="40" /></a> &nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
