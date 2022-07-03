@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Priyanka Saxena</h1>
-<h3 align="center">A recently graduated software engineer from Monash University (Australia), specializing in frontend development.</h3>
+<h3 align="center">A software engineer from Monash University (Australia), specializing in frontend development.</h3>
 
 <img align="right" width="300" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
-- 📝 Checkout my pinned projects below
+- 📝 Checkout my pinned projects below 👇
 
-- 👨‍💻 Sourcecodes of my projects showcased below are available [here](https://github.com/SaxenaPriyanka?tab=repositories)
+- 👨‍💻 Sourcecodes of my projects are available [here](https://github.com/SaxenaPriyanka?tab=repositories)
 
-- 📄 To know about my experiences & projects visit my [website](https://priyankasaxena.net/)
+- 📄 To know more about my experiences & projects visit my [website](https://priyankasaxena.net/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
